@@ -1,2 +1,2 @@
 # cdn
-jsDeliver+Github搭建免费cdn
+jsDeliver+Github free cdn
